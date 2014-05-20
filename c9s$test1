@@ -1,0 +1,19 @@
+//========================================================================
+// Script created by the Script Wizard Tue May 20 11:20:47 EST 2014
+//========================================================================
+// Solution Script
+// ---------------
+// Command and control for the solution (un-comment to use)
+// stop solution c9s$test1
+
+create solution c9s$test1
+	create file-adapter-inbound fileadapterinbound_1
+	end
+end
+
+
+// More command and control for the solution (un-comment to use)
+// reload solution c9s$test1
+
+// start solution c9s$test1
+
